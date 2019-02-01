@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 public class AccesBd {
-
+//irugheqirsghreifdsugheirgheqigheqirtghqdskighrqituhretiersq
 	public Connection cn;
 	public Statement st;
 
