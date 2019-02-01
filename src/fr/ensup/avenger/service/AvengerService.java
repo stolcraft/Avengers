@@ -9,7 +9,7 @@ import fr.ensup.avenger.exception.DaoException;
 import fr.ensup.avenger.exception.ServiceException;
 import fr.ensup.avengers.domaine.Avenger;
 
-
+//la modification est effectué
 public class AvengerService implements IAvengersService {
 	
 	AvengerDao avengdao = new AvengerDao();
